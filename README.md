@@ -27,6 +27,10 @@ It's designed to give entertaining stories, places to visit, marketing for cloth
 
 ## overview
 
+### Workflow
+1. The first picture in the instagram grid is my own and its linked to my instagram. Started the project with the instagram grid and work from there.
+Used Bootstrap.
+
 Language Used
 * HTML5
 * CSS3
