@@ -1,13 +1,23 @@
-body {
-    background-color: rgba(0, 0, 0,0.99);
-}
-.instagram {
+.container {
     width: 100%;
     margin-right: auto;
     margin-left: auto;
     padding: 0 15px 0 15px;
-    background-color: rgb(34, 54, 53);
+    
 }
+
  .text-color {
     color: rgba(5, 196, 92);
  }
+
+ /*Header*/
+/*------------------------------------ Background colors*/
+.container {
+    background-color: rgb(34, 54, 53);
+}
+body {
+    background-color: rgba(0, 0, 0,0.99);
+}
+.bg-color-nav {
+    background-color: rgba(11, 51, 40,0.99);
+}
