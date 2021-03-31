@@ -16,6 +16,14 @@ a. Should be presented with buying equipment, clothes, and ideas about where and
 
 a. The user is given options on events and group activities.    
 
+* Design
+1. Images should envoce the inner adventurers feelings to go out into the wild!
+2. Fonst should be something simple to not draw attention from the pictures
+3. Right now I se dark green colors
 
-* overview
+* Wireframes
 It's designed to give entertaining stories, places to visit, marketing for clothes and equipment. 
+
+# overview
+
+
