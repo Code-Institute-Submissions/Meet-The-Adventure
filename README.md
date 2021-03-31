@@ -1,5 +1,5 @@
 # Meet-The-Adventure
-Climbing and Hiking blog. The design should be responsve on phone, tablet and desktop for fellow travleres and adventures people.
+Climbing and Hiking blog. The design should be responsive on phones, tablets, and desktops for fellow travelers and adventures people.
 
 
  ## UX  User Experience 
@@ -17,5 +17,5 @@ a. Should be presented with buying equipment, clothes, and ideas about where and
 a. The user is given options on events and group activities.    
 
 
-
-Its designed to give entertaing storys, places to visit, marketing for clothes and equipment. 
+* overview
+It's designed to give entertaining stories, places to visit, marketing for clothes and equipment. 
