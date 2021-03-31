@@ -25,6 +25,9 @@ body {
     background-color: rgb(34, 54, 53, 0.9);
 }
 /*-----------------------------------------------------Posts*/
+.right-padding {
+    padding-right: 0;
+}
 
 /*-----------------------------------------------------instagram*/
 .container {
@@ -33,7 +36,4 @@ body {
     margin-left: auto;
     padding: 0 15px 0 15px;
     
-}
-.right-padding {
-    padding-right: 0;
 }
