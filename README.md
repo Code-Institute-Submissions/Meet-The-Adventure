@@ -28,8 +28,8 @@ It's designed to give entertaining stories, places to visit, marketing for cloth
 ## overview
 
 ### Workflow
-1. The first picture in the instagram grid is my own and its linked to my instagram. Started the project with the instagram grid and work from there.
-Used Bootstrap.
+1. The first picture in the instagram grid is my own and its linked to my instagram. Started the project with the instagram grid and work from there. Used Bootstrap to make the grid.
+2. I found the color codes from my desktop picture, the image was downloaded from pexels a year ago and then used photoshop to find the color codes for the websight.
 
 Language Used
 * HTML5
