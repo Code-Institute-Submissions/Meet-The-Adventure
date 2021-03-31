@@ -51,6 +51,7 @@ Language Used
 ## Deployment
 ### Github Pages
 ## Credits
+[w3schoool](https://www.w3schools.com/)
 ### Code
 ### Media
 https://www.pexels.com/
@@ -60,20 +61,3 @@ https://www.pexels.com/
 (This might change with time, Almost copied the example code institute provided.)
 
 
- ## UX  User Experience 
-* Gaol 
-
-a. Green lush website theme will meet the new user.  
-b. I want the user to be intrigued to click around the site intuitively.
-
-* Regular visitor
-
-a. Should be presented with buying equipment, clothes, and ideas about where and what to do.   
-
-* Community visitor
-
-a. The user is given options on events and group activities.    
-
-
-* overview
-It's designed to give entertaining stories, places to visit, marketing for clothes and equipment. 
