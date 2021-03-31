@@ -34,4 +34,6 @@ body {
     padding: 0 15px 0 15px;
     
 }
- 
+.right-padding {
+    padding-right: 0;
+}
