@@ -1,8 +1,13 @@
-
+body {
+    background-color: rgba(0, 0, 0,0.99);
+}
 .container {
     width: 100%;
     margin-right: auto;
     margin-left: auto;
     padding: 0 15px 0 15px;
+    background-color: rgb(34, 54, 53);
 }
-
+ .text-color {
+    color: rgba(0, 0, 0,0.99);
+ }
