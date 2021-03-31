@@ -4,13 +4,16 @@ Climbing and Hiking blog. The design should be responsve on phone, tablet and de
 
  ## UX  User Experience 
 * Gaol 
+
 a. Green lush website theme will meet the new user.  
 b. I want the user to be intrigued to click around the site intuitively.
 
 * Regular visitor
+
 a. Should be presented with buying equipment, clothes, and ideas about where and what to do.   
 
 * Community visitor
+
 b. The user is given options on events and group activities.    
 
 
