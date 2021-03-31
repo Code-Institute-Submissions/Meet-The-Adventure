@@ -54,7 +54,7 @@ Language Used
 * Background image [Jeremy Bishop](https://unsplash.com/@jeremybishop)
 * [w3schoool](https://www.w3schools.com/)
 * Events: 
-a. https://www.thecrag.com/en/climbing/spain
+a. https://www.thecrag.com/en/article/media
 ### Code
 ### Media
 https://www.pexels.com/
