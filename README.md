@@ -51,7 +51,8 @@ Language Used
 ## Deployment
 ### Github Pages
 ## Credits
-[w3schoool](https://www.w3schools.com/)
+* Background image [Jeremy Bishop](https://unsplash.com/@jeremybishop)
+* [w3schoool](https://www.w3schools.com/)
 ### Code
 ### Media
 https://www.pexels.com/
