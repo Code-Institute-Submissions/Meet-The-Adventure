@@ -2,10 +2,8 @@
 Climbing and Hiking blog. The design should be responsve on phone, tablet and desktop for fellow travleres and adventures people.
 
 
-# UX - User Experience
-* Goal
-
-- Green lush website theme will meet the new user. 
+| UX | User Experience |
+| Gaol | Green lush website theme will meet the new user. | 
 - I want the user to be intrigued to click around the site intuitively.
 
 * Regular visitor
