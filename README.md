@@ -14,7 +14,7 @@ a. Should be presented with buying equipment, clothes, and ideas about where and
 
 * Community visitor
 
-b. The user is given options on events and group activities.    
+a. The user is given options on events and group activities.    
 
 
 
