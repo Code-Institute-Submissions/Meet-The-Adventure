@@ -53,7 +53,12 @@ Language Used
 ## Credits
 * Background image [Jeremy Bishop](https://unsplash.com/@jeremybishop)
 * [w3schoool](https://www.w3schools.com/)
+*  Adventure images: 
+
+a. https://pixabay.com/users/cocoparisienne-127419/?tab=about
+b. https://en.wikipedia.org/wiki/European_long-distance_paths
 * Events: 
+
 a. Climbning World: https://www.thecrag.com/en/article/media
 b. Hiking EU :https://en.wikipedia.org/wiki/European_long-distance_paths 
 ### Code
