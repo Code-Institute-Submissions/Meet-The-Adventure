@@ -67,9 +67,8 @@ Language Used
 3. [w3schoool](https://www.w3schools.com/)
 4. [Thecrag photo](https://pixabay.com/users/cocoparisienne-127419/?tab=about)
 5. [Eu Hiking map](https://en.wikipedia.org/wiki/European_long-distance_paths#/media/File:Map_of_the_European_Long_Distance_Paths.png)
-(Info of the creator is at the bottom of the page)
-* Events: 
 
+* Events: 
 a. Climbing World: https://www.thecrag.com/en/article/media
 b. Hiking EU: https://en.wikipedia.org/wiki/European_long-distance_paths 
 ### Code
