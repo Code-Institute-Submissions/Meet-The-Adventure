@@ -54,7 +54,8 @@ Language Used
 * Background image [Jeremy Bishop](https://unsplash.com/@jeremybishop)
 * [w3schoool](https://www.w3schools.com/)
 * Events: 
-a. https://www.thecrag.com/en/article/media
+a. Climbning World: https://www.thecrag.com/en/article/media
+b. Hiking EU :https://en.wikipedia.org/wiki/European_long-distance_paths 
 ### Code
 ### Media
 https://www.pexels.com/
