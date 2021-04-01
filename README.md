@@ -28,10 +28,17 @@ It's designed to give entertaining stories, places to visit, marketing for cloth
 ## overview
 
 ### Workflow
-1. The first picture in the Instagram grid is my own and it's linked to my Instagram where I might public my hiking stories and ideas. Started the project with the Instagram grid and work from there. Used Bootstrap to make the grid.
-(I don't feel I have time to sit down and think of a wireframe at the moment, I have the layout in my head. There is an example of a wireframe in my side project RobinAves. I intended to use that as my first milestone but after the Mentor call I decided to wait until my skillset is better for it.)
+1. 2021-03-28 to 31/3 
+* The first picture in the Instagram grid is my own and it's linked to my Instagram where I might public my hiking stories and ideas. Started the project with the Instagram grid and work from there. Used Bootstrap to make the grid.
+* (I don't feel I have time to sit down and think of a wireframe at the moment, I have the layout in my head. There is an example of a wireframe in my side project RobinAves. I intended to use that as my first milestone but after the Mentor call I decided to wait until my skillset is better for it.)
 
-2. I found the color codes from my desktop picture, the image was downloaded from https://pixabay.com a year ago and then used photoshop to find the color codes for the website.
+2. 2021-03-31 
+* I found the color codes from my desktop picture, the image was downloaded from https://pixabay.com a year ago and then used photoshop to find the color codes for the website.
+I have also used it as my background, the credit can be found forther down.
+* Started to build a shop but thats far more then I can handle, so its just an example for now. The idea is taken from a Bootstrap theme at https://colorlib.com/preview/#ashion and then do the adjustments to fit my websight or if I change it totaly when I have the experience to build it on my own. I dont know if this counts as plagiarism but this is more to show how I would like it to be. 
+
+3. 2021-04-01
+* Building the Adventure page where I will change the blog post to Climbing and Hiking information from other websights that I will link to. Credit for thoughs is also forther down. 
 
 Language Used
 * HTML5
