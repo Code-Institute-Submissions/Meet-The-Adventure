@@ -40,11 +40,12 @@ I have also used it as my background, the credit can be found forther down.
 3. 2021-04-01
 * Building the Adventure page where I will change the blog post to Climbing and Hiking information from other websights that I will link to. Credit for thoughs is also forther down. 
 
+
+## Tech I use
 Language Used
 * HTML5
 * CSS3
 
-## Tech I use
 1. VS code
 2. Font Awesome
 3. Git

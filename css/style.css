@@ -5,12 +5,24 @@
     padding: 0 15px 0 15px;
     
 }
- /*-------------------------------------Header*/
+ /*-------------------------------------Heading*/
+ h1 {
+     text-align: center;
+ }
  
 /*------------------------------------ Background colors*/
 body {
     background-image: url("../img/jeremy-bishop-uAfZBP-GtiA-unsplash.jpg");
     background-size: cover;
+}
+.hero-image {
+    background-image: url("../img/hero-mountain.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 250px;
+    margin-top: 0;
+    
+
 }
 .container {
     background-color: rgb(34, 54, 53, 0.8);
