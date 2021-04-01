@@ -28,8 +28,10 @@ It's designed to give entertaining stories, places to visit, marketing for cloth
 ## overview
 
 ### Workflow
-1. The first picture in the instagram grid is my own and its linked to my instagram. Started the project with the instagram grid and work from there. Used Bootstrap to make the grid.
-2. I found the color codes from my desktop picture, the image was downloaded from pexels a year ago and then used photoshop to find the color codes for the websight.
+1. The first picture in the Instagram grid is my own and it's linked to my Instagram where I might public my hiking stories and ideas. Started the project with the Instagram grid and work from there. Used Bootstrap to make the grid.
+(I don't feel I have time to sit down and think of a wireframe at the moment, I have the layout in my head. There is an example of a wireframe in my side project RobinAves. I intended to use that as my first milestone but after the Mentor call I decided to wait until my skillset is better for it.)
+
+2. I found the color codes from my desktop picture, the image was downloaded from https://pixabay.com a year ago and then used photoshop to find the color codes for the website.
 
 Language Used
 * HTML5
@@ -56,11 +58,12 @@ Language Used
 *  Adventure images: 
 
 a. https://pixabay.com/users/cocoparisienne-127419/?tab=about
-b. https://en.wikipedia.org/wiki/European_long-distance_paths
+b. https://en.wikipedia.org/wiki/European_long-distance_paths#/media/File:Map_of_the_European_Long_Distance_Paths.png 
+(Info of the creator is at the bottom of the page)
 * Events: 
 
-a. Climbning World: https://www.thecrag.com/en/article/media
-b. Hiking EU :https://en.wikipedia.org/wiki/European_long-distance_paths 
+a. Climbing World: https://www.thecrag.com/en/article/media
+b. Hiking EU:https://en.wikipedia.org/wiki/European_long-distance_paths 
 ### Code
 ### Media
 https://www.pexels.com/
@@ -68,5 +71,4 @@ https://www.pexels.com/
 
 #### Side note
 (This might change with time, Almost copied the example code institute provided.)
-
 
