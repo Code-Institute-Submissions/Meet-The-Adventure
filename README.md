@@ -35,10 +35,11 @@ It's designed to give entertaining stories, places to visit, marketing for cloth
 2. 2021-03-31 
 * I found the color codes from my desktop picture, the image was downloaded from https://pixabay.com a year ago and then used photoshop to find the color codes for the website.
 I have also used it as my background, the credit can be found forther down.
-* Started to build a shop but thats far more then I can handle, so its just an example for now. The idea is taken from a Bootstrap theme at https://colorlib.com/preview/#ashion and then do the adjustments to fit my websight or if I change it totaly when I have the experience to build it on my own. I dont know if this counts as plagiarism but this is more to show how I would like it to be. 
+* Started to build a shop but thats far more then I can handle, so its just an example for now. The idea is taken from a Bootstrap theme at https://colorlib.com/preview/#ashion and then do the adjustments to fit my websight or if I change it totaly when I have the experience to build it on my own. I dont know if this counts as plagiarism but this is more to show how I would like it to be. Sent an email to a company that I maybe would like to work with some day, side topic. I want to use some pictures and link to their webpage.
 
 3. 2021-04-01
 * Building the Adventure page where I will change the blog post to Climbing and Hiking information from other websights that I will link to. Credit for thoughs is also forther down. 
+* Changed the websight so it has an hero-image and moved the "logo" there as well. In its place I will put the social media accounts. 
 
 
 ## Tech I use
@@ -61,17 +62,16 @@ Language Used
 ## Deployment
 ### Github Pages
 ## Credits
-* Background image [Jeremy Bishop](https://unsplash.com/@jeremybishop)
-* [w3schoool](https://www.w3schools.com/)
-*  Adventure images: 
-
-a. https://pixabay.com/users/cocoparisienne-127419/?tab=about
-b. https://en.wikipedia.org/wiki/European_long-distance_paths#/media/File:Map_of_the_European_Long_Distance_Paths.png 
+1. Background image [Jeremy Bishop](https://unsplash.com/@jeremybishop)
+2. [Hero Image](https://pixabay.com/de/users/turnermurakami-1477719/)
+3. [w3schoool](https://www.w3schools.com/)
+4. [Thecrag photo](https://pixabay.com/users/cocoparisienne-127419/?tab=about)
+5. [Eu Hiking map](https://en.wikipedia.org/wiki/European_long-distance_paths#/media/File:Map_of_the_European_Long_Distance_Paths.png)
 (Info of the creator is at the bottom of the page)
 * Events: 
 
 a. Climbing World: https://www.thecrag.com/en/article/media
-b. Hiking EU:https://en.wikipedia.org/wiki/European_long-distance_paths 
+b. Hiking EU: https://en.wikipedia.org/wiki/European_long-distance_paths 
 ### Code
 ### Media
 https://www.pexels.com/
