@@ -34,15 +34,16 @@ It's designed to give entertaining stories, places to visit, marketing for cloth
 
 2. 2021-03-31 
 * I found the color codes from my desktop picture, the image was downloaded from https://pixabay.com a year ago and then used photoshop to find the color codes for the website.
-I have also used it as my background, the credit can be found forther down.
-* Started to build a shop but thats far more then I can handle, so its just an example for now. The idea is taken from a Bootstrap theme at https://colorlib.com/preview/#ashion and then do the adjustments to fit my websight or if I change it totaly when I have the experience to build it on my own. I dont know if this counts as plagiarism but this is more to show how I would like it to be. Sent an email to a company that I maybe would like to work with some day, side topic. I want to use some pictures and link to their webpage.
+I have also used it as my background, the credit can be found further down.
+* Started to build a shop but that's far more than I can handle, so it's just an example for now. The idea is taken from a Bootstrap theme at https://colorlib.com/preview/#ashion and then do the adjustments to fit my website or if I change it totally when I have the experience to build it on my own. I don't know if this counts as plagiarism but this is more to show how I would like it to be. Sent an email to a company that I maybe would like to work with someday, side topic. I want to use some pictures and link to their webpage.
 
 3. 2021-04-01
-* Building the Adventure page where I will change the blog post to Climbing and Hiking information from other websights that I will link to. Credit for thoughs is also forther down. 
-* Changed the websight so it has an hero-image and moved the "logo" there as well. In its place I will put the social media accounts. 
+* Building the Adventure page where I will change the blog post to Climbing and Hiking information from other websites that I will link to. Credit for thoughts is also further down. 
+* Changed the website so it has a hero-image and moved the "logo" there as well. In its place, I will put the social media accounts. 
 
 4. 2021-04-02
-I changed the shop page so that there can be an external shop. Did this so I dont need to worry about plagiarism! Think of it as if I was sponsord by a company, or several companyes.
+* I changed the shop page so that there can be an external shop. Did this so I don't need to worry about plagiarism! Think of it as if I was sponsored by a company or several companies.
+* Debugging - I had to override a bootstrap for the images  in shop to stand in line. It didn't work out as I wanted it, through the class tag copied using dev tools, so I had to use id instead and it worked :) 
 
 ## Tech I use
 Language Used
@@ -89,4 +90,3 @@ https://www.pexels.com/
 
 #### Side note
 (This might change with time, Almost copied the example code institute provided.)
-
