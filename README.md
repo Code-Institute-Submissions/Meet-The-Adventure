@@ -41,6 +41,8 @@ I have also used it as my background, the credit can be found forther down.
 * Building the Adventure page where I will change the blog post to Climbing and Hiking information from other websights that I will link to. Credit for thoughs is also forther down. 
 * Changed the websight so it has an hero-image and moved the "logo" there as well. In its place I will put the social media accounts. 
 
+4. 2021-04-02
+I changed the shop page so that there can be an external shop. Did this so I dont need to worry about plagiarism! Think of it as if I was sponsord by a company, or several companyes.
 
 ## Tech I use
 Language Used
@@ -67,6 +69,15 @@ Language Used
 3. [w3schoool](https://www.w3schools.com/)
 4. [Thecrag photo](https://pixabay.com/users/cocoparisienne-127419/?tab=about)
 5. [Eu Hiking map](https://en.wikipedia.org/wiki/European_long-distance_paths#/media/File:Map_of_the_European_Long_Distance_Paths.png)
+* Shop picture used
+
+[Apperal](https://pixabay.com/de/users/pexels-2286921)
+
+[Equipment](https://pixabay.com/de/users/dima_goroziya-3562044/)
+
+[Backpacks](https://pixabay.com/de/users/pexels-2286921/)
+
+[Shoes](https://pixabay.com/de/photos/stiefel-schuhe-moos-wanderschuhe-1638873/)
 
 * Events: 
 a. Climbing World: https://www.thecrag.com/en/article/media
