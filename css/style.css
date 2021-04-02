@@ -59,7 +59,7 @@ body, .a-color {
  margin: 0;   
 }
 .shopcontainer {
-    font-size: 0;
+    font-size: 0; !important
 }
 #nav li {
     font-size: 15px;
