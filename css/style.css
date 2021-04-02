@@ -35,11 +35,11 @@
  }
 /*------------------------------------ Background colors*/
 body {
-    background-image: url("../img/jeremy-bishop-uAfZBP-GtiA-unsplash.jpg");
+    background-image: url("../img/Hero-Background/jeremy-bishop-uAfZBP-GtiA-unsplash.jpg");
     background-size: cover;
 }
 .hero-image {
-    background-image: url("../img/hero-mountain.jpg");
+    background-image: url("../img/Hero-Background/hero-mountain.jpg");
     background-repeat: no-repeat;
   background-position: center;
     background-size: cover;
