@@ -43,7 +43,10 @@ I have also used it as my background, the credit can be found further down.
 
 4. 2021-04-02
 * I changed the shop page so that there can be an external shop. Did this so I don't need to worry about plagiarism! Think of it as if I was sponsored by a company or several companies.
-* Debugging - I had to override a bootstrap for the images  in shop to stand in line. It didn't work out as I wanted it, through the class tag copied using dev tools, so I had to use id instead and it worked :) 
+* #### Debugging 
+ I had to override a bootstrap for the images  in shop to stand in line. It didn't work out as I wanted it, through the class tag copied using dev tools, so I had to use id instead and it worked :) 
+* #### Debugging 
+When I have too different amount of text in post and adventure section, the boxes changes, I could perhaps do something like hinheret but it works for good for now.
 * Hover effect on shop images
 
 ## Tech I use
