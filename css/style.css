@@ -76,13 +76,6 @@ body, .a-color {
     padding: 0 15px 0 15px;
     
 }
-#insta-hover {
-    transition: 0.6s;
-}
-#insta-hover:hover {
-    background-color: rgba(0, 0, 0,05);
-
-}
 /*------------------------------------Position*/
 .center {
     text-align: center;
