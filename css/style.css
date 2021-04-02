@@ -28,13 +28,13 @@ body {
     padding-bottom: 250px;
     margin-top: 0;
 }
-.container, .bg-color-nav{
+.container, .bg-color-nav {
     background-color: rgb(34, 54, 53, 0.8);
 }
-body {
-    background-color: rgba(0, 0, 0,0.99);
+body, .a-color {
+    background-color: rgba(0, 0, 0,0.8);
 }
-.bg-color-posts {
+.bg-color-posts, .shopcontainer {
     background-color: rgb(34, 54, 53, 0.7);
 }
 /*-----------------------------------------------------Posts*/
@@ -50,4 +50,27 @@ body {
     padding: 0 15px 0 15px;
     
 }
- 
+/*------------------------------------Position*/
+.center {
+    text-align: center;
+}
+/*---------------------------------------Shop*/
+.list-inline-item:not(:last-child) {
+ margin: 0;   
+}
+.shopcontainer {
+    font-size: 0;
+}
+#nav li {
+    font-size: 15px;
+    padding: 0;
+    padding-top: 20px;
+}
+.a-color {
+    padding: 2px 20px 2px 20px;
+}
+.shop-img {
+    margin: 5px;
+    padding:5px;
+    background-color: blanchedalmond;
+}
