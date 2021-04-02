@@ -76,3 +76,6 @@ body, .a-color {
     padding:5px;
     background-color: rgba(0, 0, 0,0.8);
 }
+.shop-img:hover {
+    background-color: #fafafa;
+}
