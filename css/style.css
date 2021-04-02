@@ -63,6 +63,9 @@ body, .a-color {
     height: 200px;
     
 }
+#box-padding {
+    padding-bottom: 25px;
+}
 
 
 /*-----------------------------------------------------instagram*/
@@ -106,4 +109,5 @@ body, .a-color {
 .video > .center {
     padding-top: 15px;
     padding-bottom: 15px;
+    margin-bottom: 15px;
 }
