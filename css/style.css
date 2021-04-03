@@ -86,6 +86,9 @@ body, .a-color {
 .center {
     text-align: center;
 }
+#center {
+padding-left: 50%;
+}
 /*---------------------------------------Shop section*/
 .list-inline-item:not(:last-child) {
  margin: 0;
