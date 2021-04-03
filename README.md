@@ -51,6 +51,10 @@ I have also used it as my background, the credit can be found further down.
 When I have too different amount of text in post and adventure section, the boxes changes, I could perhaps do something like hinheret but it works for good for now.
 Still got issues with this, I will need to look closer into that when I do the a propper debugging.
 
+* #### Debugging
+Mager bug with git. I couldn't push. Don't know how many times I tried and looked for other solutions. In the end, I just made a new main on my computer and copied the code, and moved the images. I read at stack overflow that it can be trublesum to push too much at the same time. So I divided the uploads to the new respiratory on my computer or the new place I cloned my respiratory too. It seems to work, though... I'm not done yet!!
+5. 2021-04-03 
+* Wrote a paragraph in the instagram section under the images. Have been trying to get some links to get javascripts on to my website, in order to make the image interactive but with no result. The work around was to do the paragraph and then the background interactive.
 
 * Hover effect on shop images
 * Have added some new interactive futures, video, social links, linked to other pages I like. Turnes out to be a website for the things I find exciting :)
