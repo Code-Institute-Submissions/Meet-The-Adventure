@@ -70,6 +70,10 @@ Language Used
 ## Testing
 
 * W3C Markup Validator
+1. Used same id tag.
+2. One filename with a space
+3. One hyphen extra
+
 * W3C CSS Validator
 
 
