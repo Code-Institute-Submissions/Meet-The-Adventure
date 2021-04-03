@@ -56,7 +56,7 @@ Mager bug with git. I couldn't push. Don't know how many times I tried and looke
 
 5. 2021-04-03 
 * Wrote a paragraph in the instagram section under the images. Have been trying to get some links to get javascripts on to my website, in order to make the image interactive but with no result. The work around was to do the paragraph and then the background interactive. I still trying to find a way to make the post section more like that, so you can clearly se that you hover over it. Now its just the Click me that gets an underline. I will probably redo that section and make it as I made the shop, free hand that is. Took the Post section from Bootstrap Themes.
-* Made the contact page from a bootstrap example. 
+* Made the contact page from a bootstrap example and changed it to look nice on my contact page.
 
 * Hover effect on shop images
 * Have added some new interactive futures, video, social links, linked to other pages I like. Turnes out to be a website for the things I find exciting :)
@@ -79,8 +79,10 @@ Language Used
 1. Used the same id tag in more then one element.
 * W3C CSS Validator
 
-## Deployment
 ### Github Pages
+
+* [Meet The Adventure](https://robin-aves.github.io/Meet-The-Adventure/)
+
 ## Credits
 1. Background image [Jeremy Bishop](https://unsplash.com/@jeremybishop)
 2. [Hero Image](https://pixabay.com/de/users/turnermurakami-1477719/)
@@ -99,6 +101,7 @@ Language Used
 
 * Events: 
 a. Climbing World: https://www.thecrag.com/en/article/media
+
 b. Hiking EU: https://en.wikipedia.org/wiki/European_long-distance_paths 
 
 ### Code used
