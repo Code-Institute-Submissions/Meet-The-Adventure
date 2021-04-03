@@ -75,20 +75,9 @@ Language Used
 ## Testing
 
 * W3C Markup Validator
-<<<<<<< HEAD
 1. Used the same id tag in more then one element.
 * W3C CSS Validator
 
-=======
-1. Used same id tag.
-2. One filename with a space
-3. One hyphen extra
-
-* W3C CSS Validator
-1. I don't understand it. I have looked through my code by making this <p class="text-decoration-skip-ink overflow-anker"></p> and when you highlight the class attributes themselves with the muse it shows where I have written it elsewhere but I can't find it! The validator also shows a lot of weird warnings, and it refers to the bootstrap link I presume?
-https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Frobin-aves.github.io%2FMeet-The-Adventure%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv
-
->>>>>>> 3ae1cd698a89b05c908d9cac1499a443226ec77e
 ## Deployment
 ### Github Pages
 ## Credits
@@ -110,6 +99,14 @@ https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Frobin-aves.githu
 * Events: 
 a. Climbing World: https://www.thecrag.com/en/article/media
 b. Hiking EU: https://en.wikipedia.org/wiki/European_long-distance_paths 
+### Code used
+Overall I have only used the skeleton of the code and then change it. So, as for me, I would not regard it as plagiarism to use ideas from someone else and then change it to fit my work. You should not need to invent the wheel every time, it's a fine line and very much up to the beholder to make that statement.
+1. Insta: Looked at the Instagram section here: https://demo.bootstraptemple.com/travel/ 
+2. Haeder: And here for the heading: https://getbootstrap.com/docs/5.0/components/navbar/
+3. Post: section https://getbootstrap.com/docs/5.0/examples/blog/
+4. Shop: section I build totally myself from scratch, I think that I will use that for my Post section instead because the post section doesn't behave as I want it to.
+5. Contact: https://mdbootstrap.com/docs/b4/jquery/forms/contact/
+
 ### Code
 ### Media
 https://www.pexels.com/
