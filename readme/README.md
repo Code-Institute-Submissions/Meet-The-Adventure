@@ -75,9 +75,20 @@ Language Used
 ## Testing
 
 * W3C Markup Validator
+<<<<<<< HEAD
 1. Used the same id tag in more then one element.
 * W3C CSS Validator
 
+=======
+1. Used same id tag.
+2. One filename with a space
+3. One hyphen extra
+
+* W3C CSS Validator
+1. I don't understand it. I have looked through my code by making this <p class="text-decoration-skip-ink overflow-anker"></p> and when you highlight the class attributes themselves with the muse it shows where I have written it elsewhere but I can't find it! The validator also shows a lot of weird warnings, and it refers to the bootstrap link I presume?
+https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Frobin-aves.github.io%2FMeet-The-Adventure%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv
+
+>>>>>>> 3ae1cd698a89b05c908d9cac1499a443226ec77e
 ## Deployment
 ### Github Pages
 ## Credits
