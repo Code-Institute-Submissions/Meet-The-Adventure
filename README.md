@@ -56,6 +56,7 @@ Mager bug with git. I couldn't push. Don't know how many times I tried and looke
 
 5. 2021-04-03 
 * Wrote a paragraph in the instagram section under the images. Have been trying to get some links to get javascripts on to my website, in order to make the image interactive but with no result. The work around was to do the paragraph and then the background interactive. I still trying to find a way to make the post section more like that, so you can clearly se that you hover over it. Now its just the Click me that gets an underline. I will probably redo that section and make it as I made the shop, free hand that is. Took the Post section from Bootstrap Themes.
+* Made the contact page from a bootstrap example. 
 
 * Hover effect on shop images
 * Have added some new interactive futures, video, social links, linked to other pages I like. Turnes out to be a website for the things I find exciting :)
@@ -88,26 +89,25 @@ Language Used
 5. [Eu Hiking map](https://en.wikipedia.org/wiki/European_long-distance_paths#/media/File:Map_of_the_European_Long_Distance_Paths.png)
 * Shop picture used
 
-[Apperal](https://pixabay.com/de/users/pexels-2286921)
+1. [Apperal](https://pixabay.com/de/users/pexels-2286921)
 
-[Equipment](https://pixabay.com/de/users/dima_goroziya-3562044/)
+2. [Equipment](https://pixabay.com/de/users/dima_goroziya-3562044/)
 
-[Backpacks](https://pixabay.com/de/users/pexels-2286921/)
+3. [Backpacks](https://pixabay.com/de/users/pexels-2286921/)
 
-[Shoes](https://pixabay.com/de/photos/stiefel-schuhe-moos-wanderschuhe-1638873/)
+4. [Shoes](https://pixabay.com/de/photos/stiefel-schuhe-moos-wanderschuhe-1638873/)
 
 * Events: 
 a. Climbing World: https://www.thecrag.com/en/article/media
 b. Hiking EU: https://en.wikipedia.org/wiki/European_long-distance_paths 
-### Code used
-Overall I have only used the skeleton of the code and then change it. So, as for me, I would not regard it as plagiarism to use ideas from someone else and then change it to fit my work. You should not need to invent the wheel every time, it's a fine line and very much up to the beholder to make that statement.
-1. Insta: Looked at the Instagram section here: https://demo.bootstraptemple.com/travel/ 
-2. Haeder: And here for the heading: https://getbootstrap.com/docs/5.0/components/navbar/
-3. Post: section https://getbootstrap.com/docs/5.0/examples/blog/
-4. Shop: section I build totally myself from scratch, I think that I will use that for my Post section instead because the post section doesn't behave as I want it to.
-5. Contact: https://mdbootstrap.com/docs/b4/jquery/forms/contact/
 
-### Code
+### Code used
+Overall I have only used the skeleton of other code and then change it. So, as for me, I would not regard it as plagiarism to use ideas from someone else and then change it to fit my work. You should not need to invent the wheel every time, it's a fine line and very much up to the beholder to make that statement.
+1. Insta: Looked at the Instagram section here: https://demo.bootstraptemple.com/travel/ 
+2. Haeder: Looked here for the heading: https://getbootstrap.com/docs/5.0/components/navbar/
+3. Post section: https://getbootstrap.com/docs/5.0/examples/blog/
+4. Shop section: I build totally myself from scratch, I think that I will use that for my Post section instead because the post section doesn't behave as I want it to.
+5. Contact: https://mdbootstrap.com/docs/b4/jquery/forms/contact/
 ### Media
 https://www.pexels.com/
 ### Acknowledgements

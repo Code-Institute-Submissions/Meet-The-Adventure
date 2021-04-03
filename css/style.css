@@ -86,9 +86,6 @@ body, .a-color {
 .center {
     text-align: center;
 }
-#center {
-padding-left: 50%;
-}
 /*---------------------------------------Shop section*/
 .list-inline-item:not(:last-child) {
  margin: 0;
@@ -120,3 +117,8 @@ padding-left: 50%;
     padding-bottom: 15px;
     margin-bottom: 15px;
 }
+/*---------------------------------------Contact section*/
+ .mail-position{
+     padding-left:50px;
+
+ }
