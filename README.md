@@ -64,12 +64,15 @@ Mager bug with git. I couldn't push. Don't know how many times I tried and looke
 
 ### Hamburger Menu
 1. I would like the hamburger menu on the smaller devices to be white 
-2. I think I need some javascript for it to work, not so familiar with hamburger menus. 
+2. OK! I think I need some javascript for it to work, not so familiar with hamburger menus. 
 I looked at some youtube videos and the problem is solved :)
 
 
 ### iPad
 1. The post section (Wim Hof and Climbing) needs some sort of @media so the boxes are at the same height.
+
+### Phone Contact
+1. the icons are not centerd, use @media ?
 
 ___________________________________________________
 ## Look & Feel
@@ -77,7 +80,7 @@ ___________________________________________________
 ### Fonts
 
 1. Look for better fonts and change sizes where needed.
-2. not sure if I like the hover border radius I have put on the nav menu. It's different so that's maybe why I have mixed experiences with them.
+2. OK! not sure if I like the hover border radius I have put on the nav menu. It's different so that's maybe why I have mixed experiences with them.
 Solved I chaned it, it looked even more strange in the hamburger menu.
 
 ### images & video
