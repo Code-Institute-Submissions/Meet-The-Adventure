@@ -25,9 +25,7 @@ a. The user is given options on events and group activities.
 
 It's designed to give entertaining stories, places to visit, marketing for clothes and equipment. 
 
-## overview
-
-### Workflow
+## Workflow
 1. 2021-03-28 to 31/3 
 * The first picture in the Instagram grid is my own and it's linked to my Instagram where I might public my hiking stories and ideas. Started the project with the Instagram grid and work from there. Used Bootstrap to make the grid.
 * (I don't feel I have time to sit down and think of a wireframe at the moment, I have the layout in my head. There is an example of a wireframe in my side project RobinAves. I intended to use that as my first milestone but after the Mentor call I decided to wait until my skillset is better for it.)
@@ -57,9 +55,48 @@ Mager bug with git. I couldn't push. Don't know how many times I tried and looke
 5. 2021-04-03 
 * Wrote a paragraph in the instagram section under the images. Have been trying to get some links to get javascripts on to my website, in order to make the image interactive but with no result. The work around was to do the paragraph and then the background interactive. I still trying to find a way to make the post section more like that, so you can clearly se that you hover over it. Now its just the Click me that gets an underline. I will probably redo that section and make it as I made the shop, free hand that is. Took the Post section from Bootstrap Themes.
 * Made the contact page from a bootstrap example and changed it to look nice on my contact page.
-
 * Hover effect on shop images
 * Have added some new interactive futures, video, social links, linked to other pages I like. Turnes out to be a website for the things I find exciting :)
+
+# issues
+
+## Responsinator
+
+### Hamburger Menu
+1. I would like the hamburger menu on the smaller devices to be white 
+2. I think I need some javascript for it to work, not so familiar with hamburger menus.
+
+
+### iPad
+1. The post section (Wim Hof and Climbing) needs some sort of @media so the boxes are at the same height.
+
+___________________________________________________
+## Look & Feel
+
+### Fonts
+
+1. Look for better fonts and change sizes where needed.
+2. not sure if I like the hover border radius I have put on the nav menu. It's different so that's maybe why I have mixed experiences with them.
+
+### images & video
+
+1. I would like the video to correlate more on the landing page with the image of the hammocks on the right side.
+
+### Responsive
+
+1. I have tried out lots of ways to make the box, images or the text responsive when hover over the post section (Wim hof, etc) but the only thing that happens is that I get an underline. Its easy to miss that if you hover over the image and the "click here" and "Continue Reading" gets underlined. For me, that's not even close and as a user, you might miss that. On the other hand, the text is clear of what to do if you want to know more.
+
+2. Maybe have some sort of light background on the Instagram text so they stand out more.
+
+## External links
+
+### Social Media
+
+1. Í think that it's better to Change Facebook to Linkedin
+
+## Last thoughts
+
+1. I didn't have in mind that this would be so, well, self-centered. There are a couple of other interests of mine that's not on the sight so perhaps change the shop to Creation, Creativity, or something like that and link to my music and all that "content creator" stuff I like to do... Idk, I don't have enough content at the moment, this is just my thoughts right now.  
 
 ## Tech I use
 Language Used
