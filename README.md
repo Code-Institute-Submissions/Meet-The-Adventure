@@ -63,16 +63,17 @@ Mager bug with git. I couldn't push. Don't know how many times I tried and looke
 ## Responsinator
 
 ### Hamburger Menu
-1. I would like the hamburger menu on the smaller devices to be white 
+1. OK! I would like the hamburger menu on the smaller devices to be white 
+- Changed the class to navbar-dark
 2. OK! I think I need some javascript for it to work, not so familiar with hamburger menus. 
-I looked at some youtube videos and the problem is solved :)
+- I looked at some youtube videos and it was simple copy past thing, so the problem is solved :)
 
 
 ### iPad
-1. The post section (Wim Hof and Climbing) needs some sort of @media so the boxes are at the same height.
+1. The post section (Wim Hof and Climbing) needs some sort of @media so the boxes are at the same height in this size.
 
 ### Phone Contact
-1. the icons are not centerd, use @media ?
+1. the icons are not centerd in the form in phone size, use @media ?
 
 ___________________________________________________
 ## Look & Feel
@@ -81,7 +82,7 @@ ___________________________________________________
 
 1. Look for better fonts and change sizes where needed.
 2. OK! not sure if I like the hover border radius I have put on the nav menu. It's different so that's maybe why I have mixed experiences with them.
-Solved I chaned it, it looked even more strange in the hamburger menu.
+- Solved I chaned it, it looked even more strange in the hamburger menu.
 
 ### images & video
 
@@ -89,10 +90,10 @@ Solved I chaned it, it looked even more strange in the hamburger menu.
 
 ### Responsive
 
-1. I have tried out lots of ways to make the box, images or the text responsive when hover over the post section (Wim hof, etc) but the only thing that happens is that I get an underline. Its easy to miss that if you hover over the image and the "click here" and "Continue Reading" gets underlined. For me, that's not even close and as a user, you might miss that. On the other hand, the text is clear of what to do if you want to know more.
+1. I have tried out lots of ways to make the box, images or the text responsive when hover over the post section (Wim hof, etc) but the only thing that happens is that I get an underline. Its easy to miss that if you hover over the image and the "click here" and "Continue Reading" gets underlined. For me, that's not even close and as a user, you might miss that. On the other hand, the text is clear of what to do if you want to know more so, it could be over the top to make it more interaktive?
 
-2. Maybe have some sort of light background on the Instagram text so they stand out more.
-
+2. OK! Maybe have some sort of light background on the Instagram text so they stand out more.
+-It's very subtle but I think it got better.
 ## External links
 
 ### Social Media
