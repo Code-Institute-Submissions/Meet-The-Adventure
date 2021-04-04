@@ -58,6 +58,10 @@ Mager bug with git. I couldn't push. Don't know how many times I tried and looke
 * Hover effect on shop images
 * Have added some new interactive futures, video, social links, linked to other pages I like. Turnes out to be a website for the things I find exciting :)
 
+6. 2021-04-04
+* I have written down problems forther down "issues" and contacted my mentor, booked a meeting the 4/6 
+* Started to focus more on things I strugled with during the building proces and solve them.  
+
 # issues
 
 ## Responsinator
@@ -120,8 +124,9 @@ Language Used
 
 * W3C Markup Validator
 1. Used the same id tag in more then one element.
-* W3C CSS Validator
 
+* W3C CSS Validator
+1. Two fail and 757 warnings and its all from bootstraps end of what I can tell.
 ### Github Pages
 
 * [Meet The Adventure](https://robin-aves.github.io/Meet-The-Adventure/)

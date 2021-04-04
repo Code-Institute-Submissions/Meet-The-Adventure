@@ -45,7 +45,7 @@ body {
     padding-bottom: 250px;
     margin-top: 0;
 }
-#insta-container, .bg-color-nav {
+#insta-container, .bg-color-nav, .container {
     background-color: rgb(34, 54, 53, 0.8);
 }
 body, .a-color {
@@ -120,5 +120,7 @@ body, .a-color {
 /*---------------------------------------Contact section*/
  .mail-position{
      padding-left:50px;
-
+ }
+ .send-bottun {
+     padding-bottom: 15px;
  }
