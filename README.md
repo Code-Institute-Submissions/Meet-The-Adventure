@@ -64,7 +64,8 @@ Mager bug with git. I couldn't push. Don't know how many times I tried and looke
 
 ### Hamburger Menu
 1. I would like the hamburger menu on the smaller devices to be white 
-2. I think I need some javascript for it to work, not so familiar with hamburger menus.
+2. I think I need some javascript for it to work, not so familiar with hamburger menus. 
+I looked at some youtube videos and the problem is solved :)
 
 
 ### iPad
