@@ -78,6 +78,7 @@ ___________________________________________________
 
 1. Look for better fonts and change sizes where needed.
 2. not sure if I like the hover border radius I have put on the nav menu. It's different so that's maybe why I have mixed experiences with them.
+Solved I chaned it, it looked even more strange in the hamburger menu.
 
 ### images & video
 
