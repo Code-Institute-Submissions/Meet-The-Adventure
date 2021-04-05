@@ -6,7 +6,7 @@ Climbing and Hiking blog. The design should be responsive on phones, tablets, an
 * Gaol 
 
 a. Green lush website theme will meet the new user.  
-b. I want the user to be intrigued to click around the site intuitively.
+b. I want the user to be intrigued to click around the site intuitively and find new sights about mental growth and energetic living, or thrilling maybe is a better word.
 
 * Regular visitor
 
@@ -19,11 +19,12 @@ a. The user is given options on events and group activities.
 * Design
 1. Images should evoke the inner adventurer's feelings to go out into the wild!
 2. Fonts should be something simple to not draw attention from the pictures
-3. Right now I see dark green colors
+3. Right now I see dark green colors, and I feel that I have managed that well.
 
 * Wireframes
 
 It's designed to give entertaining stories, places to visit, marketing for clothes and equipment. 
+(I felt stressed out, I knew that I wanted an instagram grid at the bottum on every page then I builded the sight from top to bottum with Bootstrap.
 
 ## Workflow
 1. 2021-03-28 to 31/3 
@@ -31,29 +32,23 @@ It's designed to give entertaining stories, places to visit, marketing for cloth
 * (I don't feel I have time to sit down and think of a wireframe at the moment, I have the layout in my head. There is an example of a wireframe in my side project RobinAves. I intended to use that as my first milestone but after the Mentor call I decided to wait until my skillset is better for it.)
 
 2. 2021-03-31 
-* I found the color codes from my desktop picture, the image was downloaded from https://pixabay.com a year ago and then used photoshop to find the color codes for the website.
-I have also used it as my background, the credit can be found further down.
-* Started to build a shop but that's far more than I can handle, so it's just an example for now. The idea is taken from a Bootstrap theme at https://colorlib.com/preview/#ashion and then do the adjustments to fit my website or if I change it totally when I have the experience to build it on my own. I don't know if this counts as plagiarism but this is more to show how I would like it to be. Sent an email to a company that I maybe would like to work with someday, side topic. I want to use some pictures and link to their webpage.
+* The background image was downloaded from https://pixabay.com, (se Credits)
+* Started to build a shop but that's far more than I can handle, so it's just an example for now. The idea is taken from a Bootstrap theme at https://colorlib.com/preview/#ashion and then I will do adjustments to fit my website. I don't know if this counts as plagiarism but this is more to hove an idea.
 
 3. 2021-04-01
-* Building the Adventure page where I will change the blog post to Climbing and Hiking information from other websites that I will link to. Credit for thoughts is also further down. 
+* Building the Adventure page where I will change the blog post to Climbing and Hiking information from other websites that I will link to. (Se Credits)
 * Changed the website so it has a hero-image and moved the "logo" there as well. In its place, I will put the social media accounts. 
 
 4. 2021-04-02
-* I changed the shop page so that there can be an external shop. Did this so I don't need to worry about plagiarism! Think of it as if I was sponsored by a company or several companies.
+* I changed the shop page so that there can be an external shop. Think of it as if I was sponsored by a company or several companies of which I'm linking to.
 
-* #### Debugging 
- I had to override a bootstrap for the images in shop to stand in line. It didn't work out as I wanted it, tried to use the class tag and copy it through dev tools, so I had to use id instead and it worked :) 
-
-* #### Debugging
-When I have too different amount of text in post and adventure section, the boxes changes, I could perhaps do something like hinheret but it works for good for now.
-Still got issues with this, I will need to look closer into that when I do the a propper debugging.
+* I wanted to override a bootstrap for the images in shop to stand in line. It didn't work out as I wanted it, tried to use the class tag and copy it through dev tools, but I had to use id instead and it worked :) 
 
 * #### Debugging
-Mager bug with git. I couldn't push. Don't know how many times I tried and looked for other solutions. In the end, I just made a new main on my computer and copied the code, and moved the images. I read at stack overflow that it can be trublesum to push too much at the same time. So I divided the uploads to the new respiratory on my computer or the new place I cloned my respiratory too. It seems to work, though... I'm not done yet!!
+OK! Mager bug with git. I couldn't push. Don't know how many times I tried and looked for other solutions. In the end, I just made a new main on my computer and copied the code, and moved the images. I read at stack overflow that it can be trublesum to push too much at the same time. So I divided the uploads to the new respiratory on my computer or the new place I cloned my respiratory too. It seems to work, though... I'm not done yet!!
 
 5. 2021-04-03 
-* Wrote a paragraph in the instagram section under the images. Have been trying to get some links to get javascripts on to my website, in order to make the image interactive but with no result. The work around was to do the paragraph and then the background interactive. I still trying to find a way to make the post section more like that, so you can clearly se that you hover over it. Now its just the Click me that gets an underline. I will probably redo that section and make it as I made the shop, free hand that is. Took the Post section from Bootstrap Themes.
+* Wrote a paragraph in the instagram section under the images to make it interactive. Have been trying to get some links to get javascripts on to my website, in order to make the image interactive but with no result. The work around was to do the paragraph and then make the background interactive. I still trying to find a way to make the post section more like that, so you can clearly se that you hover over it. Now its just the Click me that gets an underline. I will probably redo that section and make it as I made the shop. I think it looks a lot nicer.
 * Made the contact page from a bootstrap example and changed it to look nice on my contact page.
 * Hover effect on shop images
 * Have added some new interactive futures, video, social links, linked to other pages I like. Turnes out to be a website for the things I find exciting :)
@@ -61,6 +56,8 @@ Mager bug with git. I couldn't push. Don't know how many times I tried and looke
 6. 2021-04-04
 * I have written down problems forther down "issues" and contacted my mentor, booked a meeting the 4/6 
 * Started to focus more on things I strugled with during the building proces and solve them.  
+
+7. Reading through this and making some adjustments.
 
 # issues
 
@@ -74,12 +71,11 @@ Mager bug with git. I couldn't push. Don't know how many times I tried and looke
 
 
 ### iPad
-1. The post section (Wim Hof and Climbing) needs some sort of @media so the boxes are at the same height in this size.
+1. The post section (Wim Hof and Climbing) needs some sort of @media i guess, so the boxes are at the same height in on ipad
 
 ### Phone Contact
-1. the icons are not centerd in the form in phone size, use @media ?
+1. The icons are not centerd in the form in phone size, use @media there as well?
 
-___________________________________________________
 ## Look & Feel
 
 ### Fonts
@@ -102,7 +98,7 @@ ___________________________________________________
 
 ### Social Media
 
-1. Í think that it's better to Change Facebook to Linkedin
+1. I think that it's better to Change Facebook to Linkedin
 
 ## Last thoughts
 
@@ -161,7 +157,7 @@ Overall I have only used the skeleton of other code and then change it. So, as f
 5. Contact: https://mdbootstrap.com/docs/b4/jquery/forms/contact/
 ### Media
 https://www.pexels.com/
-### Acknowledgements
 
-#### Side note
-(This might change with time, Almost copied the example code institute provided.)
+### Acknowledgements
+Thx to my mentor for walking me through how I should work on this. I hade totally other plans in mind before the first call.
+And Thanks to all on slack.
