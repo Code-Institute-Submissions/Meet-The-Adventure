@@ -6,8 +6,11 @@ Climbing and Hiking blog. The design should be responsive on phones, tablets, an
 
  ## UX  User Experience 
 * User stories
+
 a. As a First Time Visitor, I want to easily understand the main purpose of the website. 
+
 b. As a first time visitor I want the user to be intrigued to click around the site intuitively and find new sights about mental growth and a thrilling lifestyle.
+
 c.As a first time visitor, I want them to get inspired to do things that are out of their comfort zone
 
 * Regular visitor
@@ -17,14 +20,21 @@ a. As a Frequent User; I want to find Activities and offers on clothes, equipmen
 * Community visitor
 
 a. The user is given options on events and group activities. 
+
 b. As a Frequent User, I want to check to see if there are any new blog posts.
+
 c. As a Frequent User, I want to sign up to the newsletter so that I am emailed any major updates and/or changes to the website or organization.
 
 * Design
+
 a. Green lush website theme will meet the new user. 
+
 b. Images should evoke the inner adventurer's feelings to go out into the wild!
+
 3. Fonts should be something simple to not draw attention from the pictures
+
 * Typography
+
 a. Header: New Tegomin
 The rest of the website has the original font.
 
@@ -36,24 +46,31 @@ The rest of the website has the original font.
 * Interactive elements
 
 ### Languages Used
+
 * [HTML5](https://en.wikipedia.org/wiki/HTML5)
+
 * [CSS3](https://en.wikipedia.org/wiki/CSS)
 
 ### Frameworks, Libraries & Programs Used
+
 1. Boostrap 5.0.x:
 Bootstrap was used to assist with the responsiveness and styling of the website.
+
 2:Google Fonts:
 Google fonts were used to import the 'New Tegomin' font into the style.css file which is used on all pages throughout the project.
+
 3. Font Awesome:
 Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+
 4. Git:
 Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+
 5. GitHub:
 GitHub is used to store the projects code after being pushed from Git.
+
 5. Photoshop:
 Photoshop was used to create the logo, resizing images and editing photos for the website.
-VS code:
-VS code was used to write the code
+6. VS code: VS code was used to write the code
 
 ## Testing
 
@@ -63,6 +80,7 @@ VS code was used to write the code
 * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) [result](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Frobin-aves.github.io%2FMeet-The-Adventure%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
 
 ## Testing User Stories from User Experience (UX) Section
+
 1. As a First Time Visitor, I want to easily understand the main purpose of the website. 
 
 a. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. Underneath there is a Hero Image with Text Meet The Adventure In the middle after that a short description of the website and the blog part is linked to Instagram where the text content is.
@@ -72,34 +90,54 @@ b.The main points are the Adventure page where there are links to things to do.
 
 2. As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
 
-
 3.  As a Frequent User, I want to sign up to the newsletter so that I am emailed any major updates and/or changes to the website or organization.
+
 a. Contact page is made for that.
 
 Further Testing
+
 * The website was tested on Google Chrome and Edge.
+
 * The website was viewed on [http://www.responsinator.com/]http://www.responsinator.com/?url=https%3A%2F%2Frobin-aves.github.io%2FMeet-The-Adventure%2F
+
 * My Mentor has given me feedback
 
 ## Known bugs
+
 Overall: 
+
 1. The images need to be resized to upload faster.
+
 2. Footer is missing
+
 3. All links on the page should be _blank
+
 4. Move Adventure page to home and delete the Adventure page
+
 5. Facebook should be changed to Linkedin
+
 6. The header in the hero images should be linked to home.
+
 * Home
+
 7. Hamburger menu do open but does not close when clicked.
+
 8. Post section (middle part) the boxes need to be aligned in Ipad size
+
 * Shop
+
 9. The images seem to get very small on certain devices
+
 * Adventure DELETE
+
 * Contact
+
 1. The contact section, mail, and map icons are not aligned in some sizes.
+
 2. required is missing
 
-GitHub Pages
+## GitHub Pages
+
 The project was deployed to GitHub Pages using the following steps...
 
 Log in to GitHub and locate the GitHub Repository
@@ -135,12 +173,18 @@ _____________________________________
 
 
 ## Credits
-#### 
+#### Media
+
 1. Background image [Jeremy Bishop](https://unsplash.com/@jeremybishop)
+
 2. [Hero Image](https://pixabay.com/de/users/turnermurakami-1477719/)
+
 3. [w3schoool](https://www.w3schools.com/)
+
 4. [Thecrag photo](https://pixabay.com/users/cocoparisienne-127419/?tab=about)
+
 5. [Eu Hiking map](https://en.wikipedia.org/wiki/European_long-distance_paths#/media/File:Map_of_the_European_Long_Distance_Paths.png)
+
 * Shop picture used
 
 1. [Apperal](https://pixabay.com/de/users/pexels-2286921)
@@ -152,61 +196,31 @@ _____________________________________
 4. [Shoes](https://pixabay.com/de/photos/stiefel-schuhe-moos-wanderschuhe-1638873/)
 
 * Events: 
+
 a. Climbing World: https://www.thecrag.com/en/article/media
 
 b. Hiking EU: https://en.wikipedia.org/wiki/European_long-distance_paths 
 
 ## Tech I use
+
 Language Used
+
 * HTML5
+
 * CSS3
 
 1. VS code
+
 2. Font Awesome
+
 3. Git
+
 4. Github
+
 5. Maybe Photoshop and https://www.pexels.com/
+
 6. Boostrap 5.0.x
 
-## Testing
-
-* W3C Markup Validator
-1. Used the same id tag in more than one element.
-
-* W3C CSS Validator
-1. Two fail and 757 warnings and it's all from bootstraps end of what I can tell.
-### Github Pages
-
-* [Meet The Adventure](https://robin-aves.github.io/Meet-The-Adventure/)
-
-## Credits
-#### Code
-2. Haeder: Looked here for the heading: https://getbootstrap.com/docs/5.0/components/navbar/
-3. Post section: https://getbootstrap.com/docs/5.0/examples/blog/
-4. Shop section: Code institute tutorials
-5. Contact section: https://mdbootstrap.com/docs/b4/jquery/forms/contact/
-6. Footer:
-7. Generall help: https://www.w3schools.com/
-#### Media
-8. Background image [Jeremy Bishop](https://unsplash.com/@jeremybishop)
-9. [Hero Image](https://pixabay.com/de/users/turnermurakami-1477719/)
-10. [Thecrag photo](https://pixabay.com/users/cocoparisienne-127419/?tab=about)
-11. [Eu Hiking map](https://en.wikipedia.org/wiki/European_long-distance_paths#/media/File:Map_of_the_European_Long_Distance_Paths.png)
-* Shop picture used
-
-1. [Apperal](https://pixabay.com/de/users/pexels-2286921)
-
-2. [Equipment](https://pixabay.com/de/users/dima_goroziya-3562044/)
-
-3. [Backpacks](https://pixabay.com/de/users/pexels-2286921/)
-
-4. [Shoes](https://pixabay.com/de/photos/stiefel-schuhe-moos-wanderschuhe-1638873/)
-
-* Events: 
-a. Climbing World: https://www.thecrag.com/en/article/media
-
-b. Hiking EU: https://en.wikipedia.org/wiki/European_long-distance_paths 
-
 ### Acknowledgements
-Thx to my mentor for walking me through how I should work on this. I had totally other plans in mind before the first call.
-And Thanks to all on slack.
+* Thx to my mentor for walking me through how I should work on this. I had totally other plans in mind before the first call.
+* And Thanks to all on slack.
