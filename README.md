@@ -1,108 +1,163 @@
 # Meet-The-Adventure
+[View the live project here.](https://robin-aves.github.io/Meet-The-Adventure/)
+
 Climbing and Hiking blog. The design should be responsive on phones, tablets, and desktops for fellow travelers and adventures people.
 
 
  ## UX  User Experience 
-* Gaol 
-
-a. Green lush website theme will meet the new user.  
-b. I want the user to be intrigued to click around the site intuitively and find new sights about mental growth and energetic living, or thrilling maybe is a better word.
+* User stories
+a. As a First Time Visitor, I want to easily understand the main purpose of the websight. 
+b. As a firstime visitor I want the user to be intrigued to click around the site intuitively and find new sights about mental growthand a trhilling life.
+c.As a firstime visitor, I want them to get inspired to do things that is out of there comfertzone
 
 * Regular visitor
 
-a. Should be presented with buying equipment, clothes, and ideas about where and what to do.   
+a. As a Frequent User; I want to find Activetys and offers on clothes, equipment and events.    
 
 * Community visitor
 
-a. The user is given options on events and group activities.    
+a. The user is given options on events and group activities. 
+b. As a Frequent User, I want to check to see if there are any new blog posts.
+c. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
 
 * Design
-1. Images should evoke the inner adventurer's feelings to go out into the wild!
-2. Fonts should be something simple to not draw attention from the pictures
-3. Right now I see dark green colors, and I feel that I have managed that well.
+a. Green lush website theme will meet the new user. 
+b. Images should evoke the inner adventurer's feelings to go out into the wild!
+3. Fonts should be something simple to not draw attention from the pictures
+* Typography
+a. Header: New Tegomin
+Rest of the websight has the original font.
 
-* Wireframes
+* Wireframes (Did it by hand)
+
+## Features
+* Responsive on all device sizes
+
+* Interactive elements
+
+### Languages Used
+* [HTML5]()
+* [CSS3]()
+
+### Frameworks, Libraries & Programs Used
+1. Boostrap 5.0.x:
+Bootstrap was used to assist with the responsiveness and styling of the website.
+2:Google Fonts:
+Google fonts were used to import the 'New Tegomin' font into the style.css file which is used on all pages throughout the project.
+3. Font Awesome:
+Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+4. Git:
+Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+5. GitHub:
+GitHub is used to store the projects code after being pushed from Git.
+5. Photoshop:
+Photoshop was used to create the logo, resizing images and editing photos for the website.
+VS code:
+VS code was used to write the code
+
+## Testing
+
+* [W3C Markup Validator](https://validator.w3.org/) [result](https://validator.w3.org/nu/?doc=https%3A%2F%2Frobin-aves.github.io%2FMeet-The-Adventure%2F)
+
+
+* [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) [result](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Frobin-aves.github.io%2FMeet-The-Adventure%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
+
+## Testing User Stories from User Experience (UX) Section
+1. As a First Time Visitor, I want to easily understand the main purpose of the websight. 
+
+a. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. Underneath there is a Hero Image with Text Meet The Adventure In the middle after that a short description of the websight and the blog part is linked to instagram where the text content is.
+
+b.The main points are the Adventure page where there are links to things to do.
+ 
+
+2. As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
+
+
+3.  As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
+a. Contact page is made for that.
+
+Further Testing
+* The websight was tested on Google chorme and Edge.
+* The website was viewed on [http://www.responsinator.com/]http://www.responsinator.com/?url=https%3A%2F%2Frobin-aves.github.io%2FMeet-The-Adventure%2F
+* My Mentor has given me feedback
+
+## Known bugs
+Overall: 
+1. The images need to be resized to upload faster.
+2. Footer is missing
+3. All links on the page should be _blank
+4. Move Adventure page to home and delete the Adventure page
+5. Facebook should be change to Linkdin
+6. The header in the hero images should be linked to home.
+* Home
+7. Hamburger menu dose open but do not close when clicked.
+8. Post section (middle part) the boxes need to be aligned in Ipad size
+* Shop
+9. The images seems to get very small on certen devices
+* Adventure DELETE
+* Contact
+1. The contact section, mail and map icons is not aligned in some sizes.
+2. required is missing
 
 It's designed to give entertaining stories, places to visit, marketing for clothes and equipment. 
 (I felt stressed out, I knew that I wanted an instagram grid at the bottum on every page then I builded the sight from top to bottum with Bootstrap.
+Deployment
+GitHub Pages
+The project was deployed to GitHub Pages using the following steps...
 
-## Workflow
-1. 2021-03-28 to 31/3 
-* The first picture in the Instagram grid is my own and it's linked to my Instagram where I might public my hiking stories and ideas. Started the project with the Instagram grid and work from there. Used Bootstrap to make the grid.
-* (I don't feel I have time to sit down and think of a wireframe at the moment, I have the layout in my head. There is an example of a wireframe in my side project RobinAves. I intended to use that as my first milestone but after the Mentor call I decided to wait until my skillset is better for it.)
+Log in to GitHub and locate the GitHub Repository
+At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+Alternatively Click Here for a GIF demonstrating the process starting from Step 2.
+Scroll down the Settings page until you locate the "GitHub Pages" Section.
+Under "Source", click the dropdown called "None" and select "Master Branch".
+The page will automatically refresh.
+Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
+Forking the GitHub Repository
+By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
 
-2. 2021-03-31 
-* The background image was downloaded from https://pixabay.com, (se Credits)
-* Started to build a shop but that's far more than I can handle, so it's just an example for now. The idea is taken from a Bootstrap theme at https://colorlib.com/preview/#ashion and then I will do adjustments to fit my website. I don't know if this counts as plagiarism but this is more to hove an idea.
-
-3. 2021-04-01
-* Building the Adventure page where I will change the blog post to Climbing and Hiking information from other websites that I will link to. (Se Credits)
-* Changed the website so it has a hero-image and moved the "logo" there as well. In its place, I will put the social media accounts. 
-
-4. 2021-04-02
-* I changed the shop page so that there can be an external shop. Think of it as if I was sponsored by a company or several companies of which I'm linking to.
-
-* I wanted to override a bootstrap for the images in shop to stand in line. It didn't work out as I wanted it, tried to use the class tag and copy it through dev tools, but I had to use id instead and it worked :) 
-
-* #### Debugging
-OK! Mager bug with git. I couldn't push. Don't know how many times I tried and looked for other solutions. In the end, I just made a new main on my computer and copied the code, and moved the images. I read at stack overflow that it can be trublesum to push too much at the same time. So I divided the uploads to the new respiratory on my computer or the new place I cloned my respiratory too. It seems to work, though... I'm not done yet!!
-
-5. 2021-04-03 
-* Wrote a paragraph in the instagram section under the images to make it interactive. Have been trying to get some links to get javascripts on to my website, in order to make the image interactive but with no result. The work around was to do the paragraph and then make the background interactive. I still trying to find a way to make the post section more like that, so you can clearly se that you hover over it. Now its just the Click me that gets an underline. I will probably redo that section and make it as I made the shop. I think it looks a lot nicer.
-* Made the contact page from a bootstrap example and changed it to look nice on my contact page.
-* Hover effect on shop images
-* Have added some new interactive futures, video, social links, linked to other pages I like. Turnes out to be a website for the things I find exciting :)
-
-6. 2021-04-04
-* I have written down problems forther down "issues" and contacted my mentor, booked a meeting the 4/6 
-* Started to focus more on things I strugled with during the building proces and solve them.  
-
-7. Reading through this and making some adjustments.
-
-# issues
-
-## Responsinator
-
-### Hamburger Menu
-1. OK! I would like the hamburger menu on the smaller devices to be white 
-- Changed the class to navbar-dark
-2. OK! I think I need some javascript for it to work, not so familiar with hamburger menus. 
-- I looked at some youtube videos and it was simple copy past thing, so the problem is solved :)
+Log in to GitHub and locate the GitHub Repository
+At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
+You should now have a copy of the original repository in your GitHub account.
+Making a Local Clone
+Log in to GitHub and locate the GitHub Repository
+Under the repository name, click "Clone or download".
+To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
+Open Git Bash
+Change the current working directory to the location where you want the cloned directory to be made.
+Type git clone, and then paste the URL you copied in Step 3.
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+Press Enter. Your local clone will be created.
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+> Cloning into `CI-Clone`...
+> remote: Counting objects: 10, done.
+> remote: Compressing objects: 100% (8/8), done.
+> remove: Total 10 (delta 1), reused 10 (delta 1)
+> Unpacking objects: 100% (10/10), done.
+Click [Here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
+_____________________________________
 
 
-### iPad
-1. The post section (Wim Hof and Climbing) needs some sort of @media i guess, so the boxes are at the same height in on ipad
+## Credits
+#### 
+1. Background image [Jeremy Bishop](https://unsplash.com/@jeremybishop)
+2. [Hero Image](https://pixabay.com/de/users/turnermurakami-1477719/)
+3. [w3schoool](https://www.w3schools.com/)
+4. [Thecrag photo](https://pixabay.com/users/cocoparisienne-127419/?tab=about)
+5. [Eu Hiking map](https://en.wikipedia.org/wiki/European_long-distance_paths#/media/File:Map_of_the_European_Long_Distance_Paths.png)
+* Shop picture used
 
-### Phone Contact
-1. The icons are not centerd in the form in phone size, use @media there as well?
+1. [Apperal](https://pixabay.com/de/users/pexels-2286921)
 
-## Look & Feel
+2. [Equipment](https://pixabay.com/de/users/dima_goroziya-3562044/)
 
-### Fonts
+3. [Backpacks](https://pixabay.com/de/users/pexels-2286921/)
 
-1. Look for better fonts and change sizes where needed.
-2. OK! not sure if I like the hover border radius I have put on the nav menu. It's different so that's maybe why I have mixed experiences with them.
-- Solved I chaned it, it looked even more strange in the hamburger menu.
+4. [Shoes](https://pixabay.com/de/photos/stiefel-schuhe-moos-wanderschuhe-1638873/)
 
-### images & video
+* Events: 
+a. Climbing World: https://www.thecrag.com/en/article/media
 
-1. I would like the video to correlate more on the landing page with the image of the hammocks on the right side.
-
-### Responsive
-
-1. I have tried out lots of ways to make the box, images or the text responsive when hover over the post section (Wim hof, etc) but the only thing that happens is that I get an underline. Its easy to miss that if you hover over the image and the "click here" and "Continue Reading" gets underlined. For me, that's not even close and as a user, you might miss that. On the other hand, the text is clear of what to do if you want to know more so, it could be over the top to make it more interaktive?
-
-2. OK! Maybe have some sort of light background on the Instagram text so they stand out more.
--It's very subtle but I think it got better.
-## External links
-
-### Social Media
-
-1. I think that it's better to Change Facebook to Linkedin
-
-## Last thoughts
-
-1. I didn't have in mind that this would be so, well, self-centered. There are a couple of other interests of mine that's not on the sight so perhaps change the shop to Creation, Creativity, or something like that and link to my music and all that "content creator" stuff I like to do... Idk, I don't have enough content at the moment, this is just my thoughts right now.  
+b. Hiking EU: https://en.wikipedia.org/wiki/European_long-distance_paths 
 
 ## Tech I use
 Language Used
@@ -128,11 +183,18 @@ Language Used
 * [Meet The Adventure](https://robin-aves.github.io/Meet-The-Adventure/)
 
 ## Credits
-1. Background image [Jeremy Bishop](https://unsplash.com/@jeremybishop)
-2. [Hero Image](https://pixabay.com/de/users/turnermurakami-1477719/)
-3. [w3schoool](https://www.w3schools.com/)
-4. [Thecrag photo](https://pixabay.com/users/cocoparisienne-127419/?tab=about)
-5. [Eu Hiking map](https://en.wikipedia.org/wiki/European_long-distance_paths#/media/File:Map_of_the_European_Long_Distance_Paths.png)
+#### Code
+2. Haeder: Looked here for the heading: https://getbootstrap.com/docs/5.0/components/navbar/
+3. Post section: https://getbootstrap.com/docs/5.0/examples/blog/
+4. Shop section: Code institute tutorials
+5. Contact section: https://mdbootstrap.com/docs/b4/jquery/forms/contact/
+6. Footer:
+7. Generall help: https://www.w3schools.com/
+#### Media
+8. Background image [Jeremy Bishop](https://unsplash.com/@jeremybishop)
+9. [Hero Image](https://pixabay.com/de/users/turnermurakami-1477719/)
+10. [Thecrag photo](https://pixabay.com/users/cocoparisienne-127419/?tab=about)
+11. [Eu Hiking map](https://en.wikipedia.org/wiki/European_long-distance_paths#/media/File:Map_of_the_European_Long_Distance_Paths.png)
 * Shop picture used
 
 1. [Apperal](https://pixabay.com/de/users/pexels-2286921)
@@ -147,16 +209,6 @@ Language Used
 a. Climbing World: https://www.thecrag.com/en/article/media
 
 b. Hiking EU: https://en.wikipedia.org/wiki/European_long-distance_paths 
-
-### Code used
-Overall I have only used the skeleton of other code and then change it. So, as for me, I would not regard it as plagiarism to use ideas from someone else and then change it to fit my work. You should not need to invent the wheel every time, it's a fine line and very much up to the beholder to make that statement.
-1. Insta: Looked at the Instagram section here: https://demo.bootstraptemple.com/travel/ 
-2. Haeder: Looked here for the heading: https://getbootstrap.com/docs/5.0/components/navbar/
-3. Post section: https://getbootstrap.com/docs/5.0/examples/blog/
-4. Shop section: I build totally myself from scratch, I think that I will use that for my Post section instead because the post section doesn't behave as I want it to.
-5. Contact: https://mdbootstrap.com/docs/b4/jquery/forms/contact/
-### Media
-https://www.pexels.com/
 
 ### Acknowledgements
 Thx to my mentor for walking me through how I should work on this. I hade totally other plans in mind before the first call.
