@@ -136,7 +136,7 @@ Overall:
 
 2. required is missing
 
-## GitHub Pages
+## GitHub Pages (Copy pasted, beautify later)
 
 The project was deployed to GitHub Pages using the following steps...
 
