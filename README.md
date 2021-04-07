@@ -123,7 +123,7 @@ info: OK! means that I have solved the problem.
 
 * Home
 
-8. Post section (middle part) the boxes need to be aligned in Ipad size
+8. Post section (middle part) the boxes need to be aligned in Ipad size use @media
 
 * Shop
 
@@ -135,9 +135,9 @@ Info: I changed the shop page to Equipment and have linked to different stores
 
 * Contact
 
-1. The contact section, mail, and map icons are not aligned in some sizes.
+1. The contact section, mail, and map icons are not aligned in some sizes. Use @media
 
-2. required should be implemented (dont know if it works but it behaves differently)
+2. required should be implemented OK! (dont know if it works but it behaves differently)
 
 ## GitHub Pages (Copy pasted, beautify later)
 
@@ -227,3 +227,9 @@ Language Used
 ### Acknowledgements
 * Thx to my mentor for walking me through how I should work on this. I had totally other plans in mind before the first call.
 * And Thanks to all on slack.
+
+### Additional info
+Sens there is a deadline I want to add an issue I have had.
+Last few days I have been in bed with some sort of food poisoning and havent been able to work as much as I wanted.
+Overall everything should work and look good but there might be some issues here and there of which should be adressed in the Known bug section.
+
