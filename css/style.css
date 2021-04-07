@@ -124,3 +124,11 @@ body, .a-color {
  .send-bottun {
      padding-bottom: 15px;
  }
+ /*---------------------------------------Footer*/
+
+ .footer {
+     padding: 5px 5px 5px 5px;
+   transition: 0.6s;
+}
+.footer:hover {
+    background-color: rgba(0, 0, 0,0.8);
