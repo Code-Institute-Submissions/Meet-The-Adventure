@@ -105,30 +105,31 @@ Further Testing
 ## Known bugs
 
 Overall: 
+info: OK! means that I have solved the problem.
 
 1. The images need to be resized to upload faster.
 
-2. Footer is missing
+2. OK! Footer is missing 
 
-3. All links on the page should be _blank
+3. OK! All links on the page should be _blank OK!
 
-4. Move Adventure page to home and delete the Adventure page
+4. OK! Move Adventure page to home and delete the Adventure page OK!
 
-5. Facebook should be changed to Linkedin
+5. OK! Facebook should be changed to Linkedin OK!
 
 6. The header in the hero images should be linked to home.
 
-* Home
-
 7. Hamburger menu do open but does not close when clicked.
+
+* Home
 
 8. Post section (middle part) the boxes need to be aligned in Ipad size
 
 * Shop
+Info: I changed the shop page to Equipment and have linked to different stores
+9. OK! The images seem to get very small on certain devices
 
-9. The images seem to get very small on certain devices
-
-* Adventure DELETE
+10. OK! Adventure DELETE
 
 * Contact
 
