@@ -92,7 +92,7 @@ b.The main points are the Adventure page where there are links to things to do.
 
 3.  As a Frequent User, I want to sign up to the newsletter so that I am emailed any major updates and/or changes to the website or organization.
 
-a. Contact page is made for that.
+a. There are options for that on the main page but you could also send a mail through contact.
 
 Further Testing
 
