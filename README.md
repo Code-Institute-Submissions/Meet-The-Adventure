@@ -126,16 +126,18 @@ info: OK! means that I have solved the problem.
 8. Post section (middle part) the boxes need to be aligned in Ipad size
 
 * Shop
+
 Info: I changed the shop page to Equipment and have linked to different stores
+
 9. OK! The images seem to get very small on certain devices
 
-10. OK! Adventure DELETE
+10. OK! Adventure DELETED
 
 * Contact
 
 1. The contact section, mail, and map icons are not aligned in some sizes.
 
-2. required is missing
+2. required should be implemented (dont know if it works but it behaves differently)
 
 ## GitHub Pages (Copy pasted, beautify later)
 
